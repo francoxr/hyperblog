@@ -7,3 +7,5 @@ Estudie Ingenieria Mecatronica y ahora me especializo en programacion.
 En camara sale un poco oscuro pero no es tan oscuro
 
 Hablaremos de su vida
+
+Hace cosas locas con raspberry
